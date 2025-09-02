@@ -1,1 +1,0 @@
-import{d as t,p as u,B as l,o as r,b as s}from"./framework.C2HaFJdx.js";const c=t({__name:"inputNumberBase",setup(p){const e=u(1);return(m,n)=>{const o=l("s-input-number");return r(),s(o,{modelValue:e.value,"onUpdate:modelValue":n[0]||(n[0]=a=>e.value=a),placeholder:"请输入"},null,8,["modelValue"])}}});export{c as default};

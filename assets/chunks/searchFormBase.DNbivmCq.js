@@ -1,1 +1,0 @@
-import{d as a,am as s,B as o,o as n,b as r}from"./framework.C2HaFJdx.js";const l=a({__name:"searchFormBase",setup(m){const e=s([{label:"姓名",name:"name",type:"text"},{label:"电话",name:"phone",type:"text"}]);return(c,p)=>{const t=o("s-search-form");return n(),r(t,{items:e},null,8,["items"])}}});export{l as default};

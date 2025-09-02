@@ -1,1 +1,0 @@
-import{d as l,p as r,B as t,o as u,b as p}from"./framework.C2HaFJdx.js";const c=l({__name:"inputNumberClearable",setup(s){const e=r(1);return(m,n)=>{const o=t("s-input-number");return u(),p(o,{modelValue:e.value,"onUpdate:modelValue":n[0]||(n[0]=a=>e.value=a),placeholder:"请输入",clearable:""},null,8,["modelValue"])}}});export{c as default};
