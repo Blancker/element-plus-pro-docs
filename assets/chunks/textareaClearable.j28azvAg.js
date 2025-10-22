@@ -1,0 +1,1 @@
+import{d as l,p as r,B as n,b as s,o as p}from"./framework.xqfWRtwI.js";const _=l({__name:"textareaClearable",setup(u){const e=r("");return(m,a)=>{const o=n("s-textarea");return p(),s(o,{modelValue:e.value,"onUpdate:modelValue":a[0]||(a[0]=t=>e.value=t),placeholder:"请输入",clearable:""},null,8,["modelValue"])}}});export{_ as default};

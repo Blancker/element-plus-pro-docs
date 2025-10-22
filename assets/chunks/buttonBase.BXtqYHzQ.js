@@ -1,0 +1,1 @@
+import{d as s,B as a,b as c,o as l,w as r,a as _}from"./framework.xqfWRtwI.js";const u=s({__name:"buttonBase",setup(p){const e=t=>{alert("click"),console.log("click",t.target)};return(t,o)=>{const n=a("s-button");return l(),c(n,{onClick:e},{default:r(()=>[...o[0]||(o[0]=[_("按钮",-1)])]),_:1})}}});export{u as default};

@@ -1,0 +1,1 @@
+import{d as t,a9 as a,B as r,b as s,o as n}from"./framework.xqfWRtwI.js";const l=t({__name:"searchFormBorder",setup(c){const e=a([{label:"姓名",name:"name",type:"text"},{label:"电话",name:"phone",type:"text"}]);return(m,p)=>{const o=r("s-search-form");return n(),s(o,{items:e,border:""},null,8,["items"])}}});export{l as default};

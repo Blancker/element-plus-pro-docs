@@ -1,1 +1,0 @@
-import{d as l,p as r,B as n,o as s,b as p}from"./framework.cdyBUG4G.js";const _=l({__name:"textareaClearable",setup(u){const e=r("");return(m,a)=>{const o=n("s-textarea");return s(),p(o,{modelValue:e.value,"onUpdate:modelValue":a[0]||(a[0]=t=>e.value=t),placeholder:"请输入",clearable:""},null,8,["modelValue"])}}});export{_ as default};

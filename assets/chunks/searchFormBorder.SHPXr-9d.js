@@ -1,1 +1,0 @@
-import{d as t,am as a,B as r,o as s,b as n}from"./framework.cdyBUG4G.js";const l=t({__name:"searchFormBorder",setup(m){const e=a([{label:"姓名",name:"name",type:"text"},{label:"电话",name:"phone",type:"text"}]);return(c,p)=>{const o=r("s-search-form");return s(),n(o,{items:e,border:""},null,8,["items"])}}});export{l as default};

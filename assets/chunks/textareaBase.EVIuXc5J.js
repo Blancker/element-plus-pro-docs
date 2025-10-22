@@ -1,0 +1,1 @@
+import{d as l,p as n,B as r,b as s,o as p}from"./framework.xqfWRtwI.js";const c=l({__name:"textareaBase",setup(u){const e=n("");return(m,a)=>{const o=r("s-textarea");return p(),s(o,{modelValue:e.value,"onUpdate:modelValue":a[0]||(a[0]=t=>e.value=t),placeholder:"请输入"},null,8,["modelValue"])}}});export{c as default};

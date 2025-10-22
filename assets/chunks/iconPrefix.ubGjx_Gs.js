@@ -1,0 +1,1 @@
+import{_ as t,B as o,b as c,o as a,w as _,G as n}from"./framework.xqfWRtwI.js";const r={};function i(p,m){const e=o("s-icon"),s=o("el-space");return a(),c(s,{style:{padding:"5px"},size:10},{default:_(()=>[n(e,{name:"smile"}),n(e,{name:"team",prefix:"test"})]),_:1})}const l=t(r,[["render",i]]);export{l as default};
